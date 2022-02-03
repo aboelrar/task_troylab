@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Pizza",
+    "img": "assets/images/pizza.png"
+  },{
+    "title": "Sandwich",
+    "img": "assets/images/sandwich.png"
+  },{
+    "title": "Juices",
+    "img": "assets/images/juice.png"
+  }
+]
